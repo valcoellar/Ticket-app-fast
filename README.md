@@ -1,2 +1,2 @@
 # Ticket-app-fast
-vanilla javascript tickets app
+vanilla javascript version of tickets app 
